@@ -1,7 +1,7 @@
 # First-React-App
 This app present two arrays: array of names and array of ages beside each other. There is a delete button that deletes from 2 arrays one by one (every click the last age and the name will be deleted)
  This app contain one Component than the App, inside this component an array of object will be render by passing the component as a prop.
- it has this form 
+ it has this form :
  names_ages=  [{name: 'Ahmad', age: 30},
               {name: 'Yousef', age: 12},
               {name: 'Shatha', age: 14},
